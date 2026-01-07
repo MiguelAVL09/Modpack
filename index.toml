@@ -2431,7 +2431,3 @@ hash = "8c64bbebc78cbc1fa802bd31dea42231ade67a347d144751e8613d44740c9333"
 [[files]]
 file = "mods/xptome-1.19-2.1.7.jar"
 hash = "bee6bc5af6168406d2d75b3bff7d65e297a89a8154bb7572c078ecc863bc0f14"
-
-[[files]]
-file = "packwiz-install_windows_x64.exe"
-hash = "f6608570d9c2a1828e6e2ac353b678dd0395471d35ecc470f81cfdf34391d039"
