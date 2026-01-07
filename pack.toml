@@ -1,0 +1,13 @@
+name = "Modpack De Mis Amigos"
+author = "Vegetta"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "52184e24bed02b88e232edf7ee090175d7bd50b20f188f6e8e0a33ed985d48b1"
+
+[versions]
+forge = "43.5.0"
+minecraft = "1.19.2"
