@@ -365,6 +365,11 @@ file = "mods/artifacts-1.19.2-5.0.6.jar"
 hash = "3a1af2d263a7279183bc6f65f279799eb3f5ee9a028f178dba956976cd56a2ad"
 
 [[files]]
+file = "mods/atlas-lib.pw.toml"
+hash = "f981d5ad129ffb0d2629003c2b74976433c3abb4255998230667b322776114d5"
+metafile = true
+
+[[files]]
 file = "mods/attack_speed_enchantment-1.19.2-1.2.0.16.jar"
 hash = "da4a680b9c38f1d3c677f254af0371419a0590e3e0848c751c6dfa30df3f7965"
 
@@ -803,6 +808,11 @@ hash = "4814a09f7abae3060576035bce895c086037acd303519e2108b863a54d1f8e9d"
 [[files]]
 file = "mods/tacz-1.19.2-1.1.4-hotfix-all.jar"
 hash = "7dcc94b055afbaaa547510cc264a9cf80be104cdab2c0298198dbc5325caf12c"
+
+[[files]]
+file = "mods/the-hordes.pw.toml"
+hash = "ee915f02cf94473610a36f20554b37634db9e9b9bc6b5021b44d81a0fcf342cc"
+metafile = true
 
 [[files]]
 file = "mods/toms_storage-1.19-1.5.11.jar"
